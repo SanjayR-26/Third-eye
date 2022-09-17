@@ -9,4 +9,4 @@ Goggle can also be controlled with hand gestures.
 - Safety mode 
 
 
-# Due to commercial reasons couldn't post the code here.
+# Note: This is the code for the prototype I built.
